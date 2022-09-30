@@ -18,6 +18,9 @@ void main() {
 // 2 - Parametrli Constructor
 // 3 - Named Constructorlar
 
+//classdan instenst olinsa avtomatic ishga tushadi Defautlt constructor 1,2;
+//Named constructor esa qachon chaqirsam ishga tushadi
+
 // Default va Parametrli constructor bitta joyda bo'lishi mumkin emas
 // lekin Named Constructordan hohlagancha kirgazish mumkin
 
